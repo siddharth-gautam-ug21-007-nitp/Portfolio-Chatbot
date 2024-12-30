@@ -1,0 +1,9 @@
+flask
+flask-cors
+transformers
+torch
+Flask
+flask-cors
+python-dotenv
+groq
+
