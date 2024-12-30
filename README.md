@@ -2,6 +2,13 @@
 
 A portfolio chatbot integrated with a beautiful, responsive portfolio website. This chatbot is designed to answer queries about my resume, skills, projects, and achievements using an open-source LLM (Groq AI). The project is built using Flask, HTML, CSS, and JavaScript and is deployed on Render for free hosting.
 
+## Screenshots
+
+![Portfolio Screenshot 1](ImageSS1.png)
+
+![Portfolio Screenshot 2](imageSS2.png)
+
+
 ---
 ## Features
 
